@@ -7,13 +7,10 @@
 
 In this workshop, we will bridge the gap between advanced microscopy data generation and the computational skills required for its analysis. By leveraging open-source tools like Python and [Jupyter notebooks](https://jupyter.org/), participants will learn to automate image analysis, enhancing the precision, efficiency, and reproducibility of their research. This event, led by experienced core facility staff from the Francis Crick Institute, offers a practical approach to mastering quantitative analysis and workflow automation, essential for advancing research across multiple domains.
 
-# Registration
-
->Registration for this workshop is currently closed.
 
 # Instructors
 * [Sara Salgueiro Torres, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sara-salgueiro-torres)
-* [Virignia Silió](https://profiles.ucl.ac.uk/93150-virginia-silio)
+* [Virignia Silió, University College London](https://profiles.ucl.ac.uk/93150-virginia-silio)
 
 # Preparation
 
@@ -126,7 +123,7 @@ The workshop will take place in Training Room 1 at the Francis Crick Institute.
 
 2. **Do I need to have any experience of coding?**
 
-    We will start from the basics, but move quite swiftly to coding exercises – therefore, some basic experience in coding in any programming languages (including Fiji macro language) will be beneficial to make the most of this course. 
+    Some basic experience in coding in any programming languages will be beneficial to make the most of this course. 
 
 <p align="center">
 	<img width="20%" src="./Resources/CRICK_Logo.png" alt="Crick Logo">
