@@ -1,4 +1,4 @@
-### 7th November 2025, Francis Crick Institute
+### 7th & 9th October 2026, SPAOM (Spanish & Portuguese Advanced Optical Microscopy) 2026 Community Workshop
 
 <img width="90%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
 
@@ -11,9 +11,8 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 >Registration for this workshop is currently closed.
 
 # Instructors
-* [Stefania Marcotti, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/stefania-marcotti)
 * [Sara Salgueiro Torres, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sara-salgueiro-torres)
-* [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
+* [Virignia Silió](https://profiles.ucl.ac.uk/93150-virginia-silio)
 
 # Preparation
 
@@ -115,8 +114,6 @@ The workshop will take place in Training Room 1 at the Francis Crick Institute.
 ![image](https://github.com/user-attachments/assets/e49e73b8-a892-4d8b-83c2-671e5bb1626d)
 
 # Slides
-
-* [Installations](https://docs.google.com/presentation/d/1NGU8I60WOj5qWUZF_SI6OTAjYHT3UiskKHvghLyzHAc/edit?usp=sharing)
 * [Introduction](https://docs.google.com/presentation/d/1OvwQC6BONIRWE9WE6hHly4DuemMOdYzB/edit?usp=share_link&ouid=100483510834227290150&rtpof=true&sd=true)
 * [Wrap-up](https://docs.google.com/presentation/d/1o-OdsYyjFt2m7Zhdggdn7MxVyQZ9tvyXfIdNUeX3kho/edit?usp=sharing)
 
