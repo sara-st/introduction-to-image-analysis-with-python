@@ -1,4 +1,5 @@
-### 7th & 9th October 2026, SPAOM (Spanish & Portuguese Advanced Optical Microscopy) 2026 Community Workshop
+## SPAOM (Spanish & Portuguese Advanced Optical Microscopy) 2026 Community Workshop
+### 7th & 9th October 2026
 
 <img width="90%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
 
